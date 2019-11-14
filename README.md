@@ -30,7 +30,7 @@
 
 
 
-https://github.com/mdshamsad1996/Octopus-POC/blob/master/Screenshots/Octopus_Environment.JPG
+[](Screenshots/Octopus_Environment.JPG)
 
 
         
