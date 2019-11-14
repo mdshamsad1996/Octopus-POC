@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WebApplication3</id>
+    <version>$version$</version>
+    <title>WebApplication3</title>
+    <authors>shamsad</authors>
+    <owners>$author$</owners>
+    <description>WebApplication3</description>
+    <copyright>Copyright 2019</copyright>
+   </metadata>
+   <files>
+  <file src="bin\**" target="bin" />
+    <file src="*.asax" target="." />
+    <file src="Web.config" target="." />
+  <file src="packages.config" target="." />
+  </files>  
+</package>
