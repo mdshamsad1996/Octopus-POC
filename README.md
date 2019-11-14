@@ -30,7 +30,7 @@
 
 
 
- ![alt text] (https://github.com/mdshamsad1996/Octopus-POC/blob/master/Screenshots/Octopus_Environment.JPG)
+https://github.com/mdshamsad1996/Octopus-POC/blob/master/Screenshots/Octopus_Environment.JPG
 
 
         
