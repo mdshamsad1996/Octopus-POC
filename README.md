@@ -44,6 +44,8 @@
             b.Test
             c.Prod
             
+          https://github.com/mdshamsad1996/Octopus-POC/blob/master/Screenshots/Octopus_Environment.JPG  
+            
     
          ii)Install Tentacle Manager and then Add Polling Tentacle 
          
