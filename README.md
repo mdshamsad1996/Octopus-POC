@@ -38,20 +38,24 @@
     Step 2 : Octopus part
         Octopus Deploy is an automated deployment and release management server.
         It is designed to simplify deployment of ASP.NET applications
-        
-        i)Add Environments in Infrastructure of Octopus
-            a.Dev
-            b.Test
-            c.Prod
+```
+
+    ```
+            i)Add Environments in Infrastructure of Octopus
+                a.Dev
+                b.Test
+                c.Prod
+      ```
+      
             
         
             
-    
+    ```
          ii)Install Tentacle Manager and then Add Polling Tentacle 
          
          iii)Create a Pipeline on Octopus server to Deploy our Application on Dev,Test and
              Prod environment
-
+```
          
          
          
